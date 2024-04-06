@@ -1,0 +1,13 @@
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\UtilitiesLibrary\bin\Release\net8.0\UtilitiesLibrary.deps.json
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\UtilitiesLibrary\bin\Release\net8.0\UtilitiesLibrary.dll
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\UtilitiesLibrary\bin\Release\net8.0\UtilitiesLibrary.pdb
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\UtilitiesLibrary\obj\Release\net8.0\UtilitiesLibrary.csproj.AssemblyReference.cache
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\UtilitiesLibrary\obj\Release\net8.0\UtilitiesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\UtilitiesLibrary\obj\Release\net8.0\UtilitiesLibrary.AssemblyInfoInputs.cache
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\UtilitiesLibrary\obj\Release\net8.0\UtilitiesLibrary.AssemblyInfo.cs
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\UtilitiesLibrary\obj\Release\net8.0\UtilitiesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\UtilitiesLibrary\obj\Release\net8.0\UtilitiesLibrary.sourcelink.json
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\UtilitiesLibrary\obj\Release\net8.0\UtilitiesLibrary.dll
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\UtilitiesLibrary\obj\Release\net8.0\refint\UtilitiesLibrary.dll
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\UtilitiesLibrary\obj\Release\net8.0\UtilitiesLibrary.pdb
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\UtilitiesLibrary\obj\Release\net8.0\ref\UtilitiesLibrary.dll
